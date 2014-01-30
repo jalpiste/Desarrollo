@@ -31,3 +31,14 @@ D:\CURSO\PRACTICA\PROYECTO\RPCTest\RPCTest\bin\Newtonsoft.Json.xml
 D:\CURSO\PRACTICA\PROYECTO\RPCTest\RPCTest\obj\Debug\RPCTest.csprojResolveAssemblyReference.cache
 D:\CURSO\PRACTICA\PROYECTO\RPCTest\RPCTest\obj\Debug\RPCTest.dll
 D:\CURSO\PRACTICA\PROYECTO\RPCTest\RPCTest\obj\Debug\RPCTest.pdb
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\RPCTest.dll
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\RPCTest.pdb
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\AustinHarris.JsonRpc.AspNet.dll
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\AustinHarris.JsonRpc.dll
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\Newtonsoft.Json.dll
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\AustinHarris.JsonRpc.pdb
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\AustinHarris.JsonRpc.AspNet.pdb
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\bin\Newtonsoft.Json.xml
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\obj\Debug\RPCTest.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\obj\Debug\RPCTest.dll
+C:\Users\Jose\Documents\GitHub\Desarrollo\RPCTest\obj\Debug\RPCTest.pdb

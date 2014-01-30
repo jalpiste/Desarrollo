@@ -264,7 +264,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>38999</DevelopmentServerPort>
+          <DevelopmentServerPort>54654</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
